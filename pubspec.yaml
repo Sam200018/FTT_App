@@ -29,7 +29,6 @@ environment:
 dependencies:
   complex: ^0.7.2
   cupertino_icons: ^1.0.2
-  file_picker: ^4.2.7
   flutter:
     sdk: flutter
   flutter_bloc: ^8.0.0
